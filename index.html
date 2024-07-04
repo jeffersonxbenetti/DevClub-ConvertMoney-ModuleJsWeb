@@ -4,11 +4,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="./src/styles/style.css">
     <title>Convert Money - DevClub</title>
 </head>
 
 <body>
-    <img src="./src/img/logo.gif" alt="Logo">
+    <img class="logo" src="./src/img/logo.gif" alt="Logo">
     <main>
         <label>
             <p>Converter <spam>De</spam>
@@ -22,29 +27,31 @@
             </p>
             <select>
                 <option>US$ Dólar Americano</option>
+                <option>€ Euro</option>
             </select>
         </label>
         <label>
             <p>Valor</p>
-            <input placeholder="10.000 R$">
+            <input placeholder="R$ 10.000">
         </label>
-        <button>Converter</button>
+        <button class="convert-button">Converter</button>
 
         <Section>
-            <div>
+            <div class="box-currency">
                 <img src="./src/img/Real.png" alt="Logo-Brasil">
-                <p>Real</p>
-                <p>R$ 0</p>
+                <p class="currency-name-convert">Real</p>
+                <p class="currency-from-convert">R$ 0</p>
             </div>
 
             <img src="./src/img/Arrow.png" alt="Seta">
 
-            <div>
-                <img src="./src/img/Real.png" alt="Logo-Brasil">
-                <p>Dólar</p>
-                <p>US$ 0</p>
+            <div class="box-currency">
+                <img src="./src/img/USD.png" alt="Logo-Dólar">
+                <p class="currency-name-converted">Dólar</p>
+                <p class="currency-converted">US$ 0</p>
             </div>
         </Section>
     </main>
 </body>
+
 </html>
