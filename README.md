@@ -21,20 +21,23 @@
   Conforme for avançando no curso irei também colocar uma "API" para estar buscando valores exatos online para conversão com o valor real do dia, e também estarei colocando no projeto outras moedas para poder
   converter.
 </p>
+<br>
+<br>
 
 ###
 
+<h2 align="center">Foto do Projeto em tela de computador:</h2>
+<br>
 <div align="center">
-  <a href="https://jeffersonxbenetti.github.io/Convert-Currency/">Ir para o site</a>
+  <img src="" alt="Foto-do-projeto-na-tela-do-computador">
 </div>
 
 
+###
 
-
-
-
-
-
-<p>README em progresso...</p>
-
-<a href="https://jeffersonxbenetti.github.io/DevClub-ConvertMoney-ModuleJsWeb/">deploy</a>
+<h3 align="center">Link do Site</h3>
+<div align="center">
+  <a href="https://jeffersonxbenetti.github.io/DevClub-ConvertMoney-ModuleJsWeb/">
+    <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />
+  </a>
+</div>
