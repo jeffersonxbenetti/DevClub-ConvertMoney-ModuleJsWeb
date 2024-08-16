@@ -29,7 +29,7 @@
 <h2 align="center">Foto do Projeto em tela de computador:</h2>
 <br>
 <div align="center">
-  <img src="" alt="Foto-do-projeto-na-tela-do-computador">
+  <img src="https://github.com/jeffersonxbenetti/DevClub-ConvertMoney-ModuleJsWeb/blob/main/src/img/convertMoney-img.png" height="500" alt="Foto-do-projeto-na-tela-do-computador">
 </div>
 
 
